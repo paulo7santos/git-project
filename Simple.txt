@@ -1,3 +1,5 @@
 This is first code file
 
-I'm Java Developer and I'm developing a Gaming Project.
+I'm Java Developer and I'm developing a Java Gaming Project.
+
+This Game is like Total City. 
